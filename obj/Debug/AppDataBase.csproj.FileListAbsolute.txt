@@ -1,0 +1,11 @@
+C:\Users\Anas FAOUR\source\repos\AppDataBase\bin\Debug\AppDataBase.exe.config
+C:\Users\Anas FAOUR\source\repos\AppDataBase\bin\Debug\AppDataBase.exe
+C:\Users\Anas FAOUR\source\repos\AppDataBase\bin\Debug\AppDataBase.pdb
+C:\Users\Anas FAOUR\source\repos\AppDataBase\bin\Debug\MySql.Data.dll
+C:\Users\Anas FAOUR\source\repos\AppDataBase\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Anas FAOUR\source\repos\AppDataBase\bin\Debug\MySql.Web.dll
+C:\Users\Anas FAOUR\source\repos\AppDataBase\obj\Debug\AppDataBase.csprojAssemblyReference.cache
+C:\Users\Anas FAOUR\source\repos\AppDataBase\obj\Debug\AppDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Anas FAOUR\source\repos\AppDataBase\obj\Debug\AppDataBase.csproj.CopyComplete
+C:\Users\Anas FAOUR\source\repos\AppDataBase\obj\Debug\AppDataBase.exe
+C:\Users\Anas FAOUR\source\repos\AppDataBase\obj\Debug\AppDataBase.pdb
